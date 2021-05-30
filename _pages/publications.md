@@ -1,16 +1,16 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
+redirect_from: 
+  - /publications.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Papers
 
-{% include base_path %}
+### 2021
+<br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1\. **Incorporating Syntax and Semantics in Coreference Resolution with Heterogeneous Graph Attention Network** [<a href='https://www.aclweb.org/anthology/2021.naacl-main.125.pdf'>PDF</a>] <br>
+<ins>**Fan Jiang**</ins> and Trevor Cohn<br>
+**NAACL'21**: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 1584–1591 <br>
