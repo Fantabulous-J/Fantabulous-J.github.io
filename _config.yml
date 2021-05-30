@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fan Jiang"
 title_separator          : "-"
 name                     : &name "Fan Jiang"
-description              : &description "personal description"
+description              : &description "Master of Computer Science Student at Unimelb"
 url                      : https://Fantabulous-J.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Fantabulous-J/Fantabulous-J.github.io"
@@ -85,9 +85,9 @@ author:
   bio              : "Master of Computer Science Student at Unimelb"
   location         : "Melbourne, Victoria, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "fan.jiang1@student.unimelb.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
