@@ -8,6 +8,10 @@ redirect_from:
 
 ## Papers
 
+### Under Review
+1\. **Incorporating Constituent Syntax for Coreference Resolution** [<a href="/files/Incorporating_Constituent_Syntax_for_Coreference_Resolution_final.pdf">PDF</a>]<br>
+<ins>**Fan Jiang**</ins> and Trevor Cohn. Submitted to AAAI 2022.
+
 ### 2021
 <br>
 
