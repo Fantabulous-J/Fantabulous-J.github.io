@@ -22,5 +22,5 @@ Education
     * B.E. in Software Engineering, 2015 - 2019 [<a href='/files/undergraduate_transcript.pdf'>Transcripts</a>]<br>
 
 <div style="width: 250px; margin: auto;">
-		<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=jLU-au9MRg0FCjJPPUhe6EsUYAL0TUO5hggAMnuOqlc"></script>
+	<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=jLU-au9MRg0FCjJPPUhe6EsUYAL0TUO5hggAMnuOqlc"></script>
 </div>
