@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Fan Jiang.
 
-I am a master of Computer Science student at [CIS Department](https://cis.unimelb.edu.au/) of [The University of Melbourne](https://www.unimelb.edu.au/), supervised by Prof. [Trevor Cohn](https://trevorcohn.github.io/). My research interests lie in Natural Language Processing, with special focus on Coreference Resolution.
+I am a PhD student at [CIS Department](https://cis.unimelb.edu.au/) of [The University of Melbourne](https://www.unimelb.edu.au/), supervised by Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/). My research interests lie in Natural Language Processing, with special focus on Coreference Resolution.
 
 Education
 ------
