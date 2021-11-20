@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fan Jiang"
 title_separator          : "-"
 name                     : &name "Fan Jiang"
-description              : &description "PhD Student in the NLP groupd of Unimelb"
+description              : &description "PhD Student in the NLP group of Unimelb"
 url                      : https://Fantabulous-J.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Fantabulous-J/Fantabulous-J.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fan Jiang"
   avatar           : "profile.png"
-  bio              : "PhD Student in the NLP groupd of Unimelb"
+  bio              : "PhD Student in the NLP group of Unimelb"
   location         : "Melbourne, Victoria, Australia"
   employer         :
   pubmed           : 
