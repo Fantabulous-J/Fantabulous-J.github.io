@@ -8,9 +8,9 @@ redirect_from:
 
 ## Papers
 
-### Under Review
+### 2022
 1\. **Incorporating Constituent Syntax for Coreference Resolution** [<a href="/files/AAAI2022.pdf">PDF</a>]<br>
-<ins>**Fan Jiang**</ins> and Trevor Cohn. Submitted to AAAI 2022.
+<ins>**Fan Jiang**</ins> and Trevor Cohn. In Proceedings of the 36th AAAI Conference on Artificial Intelligence. **AAAI'22**
 
 ### 2021
 <br>
