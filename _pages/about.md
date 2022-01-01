@@ -19,7 +19,7 @@ Education
     * PhD student in Natural Language Processing, 2022 - 2026 (expected)
     * Supervisors: Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/)
   * **The University of Melbourne**
-    * Master of Science (Computer Science), 2019 - 2021 [<a href='/files/msc-official-transcript.pdf'>Transcripts</a>]<br>
+    * Master of Science (Computer Science), 2019 - 2021 [<a href='/files/msc-official-transcript.pdf'>Transcripts</a>] [<a href='/files/MSc_Thesis.pdf'>Thesis</a>]<br>
     * Supervisor: Prof. [Trevor Cohn](https://trevorcohn.github.io/) 
   * **Fuzhou University**
     * B.E. in Software Engineering, 2015 - 2019 [<a href='/files/undergraduate_transcript.pdf'>Transcripts</a>]<br>
