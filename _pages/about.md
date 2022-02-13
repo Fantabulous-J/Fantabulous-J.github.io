@@ -10,14 +10,14 @@ redirect_from:
 
 Hi! I am Fan Jiang.
 
-I am a PhD student at [CIS Department](https://cis.unimelb.edu.au/) of [The University of Melbourne](https://www.unimelb.edu.au/), supervised by Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/). My research interests lie in Natural Language Processing, with special focus on Coreference Resolution.
+I am a PhD student at [CIS Department](https://cis.unimelb.edu.au/) of [The University of Melbourne](https://www.unimelb.edu.au/), supervised by Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tom Drummond](http://twd20g.blogspot.com/). My research interests lie in Natural Language Processing, with special focus on Coreference Resolution.
 
 Education
 ------
 <!-- ### Education -->
   * **The University of Melbourne**
     * PhD student in Natural Language Processing, 2022 - 2026 (expected)
-    * Supervisors: Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/)
+    * Supervisors: Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tom Drummond](http://twd20g.blogspot.com/)
   * **The University of Melbourne**
     * Master of Science (Computer Science), 2019 - 2021 [<a href='/files/msc-official-transcript.pdf'>Transcripts</a>] [<a href='/files/MSc_Thesis.pdf'>Thesis</a>]<br>
     * Supervisor: Prof. [Trevor Cohn](https://trevorcohn.github.io/) 
