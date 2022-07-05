@@ -11,7 +11,7 @@ redirect_from:
 ### 2022
 <br>
 
-2\. **Incorporating Constituent Syntax for Coreference Resolution** [<a href="https://arxiv.org/pdf/2202.10710.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/Coref-Constituent-Graph'>Code</a>]<br>
+2\. **Incorporating Constituent Syntax for Coreference Resolution** [<a href="https://doi.org/10.1609/aaai.v36i10.21329">PDF</a>] [<a href='https://github.com/Fantabulous-J/Coref-Constituent-Graph'>Code</a>]<br>
 <ins>**Fan Jiang**</ins> and Trevor Cohn. In Proceedings of the 36th AAAI Conference on Artificial Intelligence. **AAAI'22**
 
 ### 2021
