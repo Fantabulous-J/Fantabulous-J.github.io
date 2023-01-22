@@ -8,6 +8,12 @@ redirect_from:
 
 ## Papers
 
+### 2023
+<br>
+
+3\. **Don't Mess with Mister-in-Between: Improved Negative Search for Knowledge Graph Completion** <br>
+<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. **EACL'23**
+
 ### 2022
 <br>
 
