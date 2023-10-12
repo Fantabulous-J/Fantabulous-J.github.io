@@ -9,7 +9,14 @@ redirect_from:
 ## Papers
 
 ### 2023
+
 <br>
+
+5\. **Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval** <br>
+<ins>**Fan Jiang**</ins>, Qiongkai Xu, Tom Drummond and Trevor Cohn. In Findings of the Association for Computational Linguistics (EMNLP). **EMNLP-Findings'23**
+
+4\. **Noisy Self-Training with Synthetic Queries for Dense Retrieval** <br>
+<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Findings of the Association for Computational Linguistics (EMNLP). **EMNLP-Findings'23**
 
 3\. **Don't Mess with Mister-in-Between: Improved Negative Search for Knowledge Graph Completion** [<a href="https://aclanthology.org/2023.eacl-main.133.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/Improved-Negative-Search-for-KGC'>Code</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. **EACL'23**
