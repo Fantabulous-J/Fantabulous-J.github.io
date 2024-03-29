@@ -16,10 +16,10 @@ redirect_from:
 
 <br>
 
-5\. **Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval** [<a href="https://arxiv.org/pdf/2311.15564">PDF</a>] [<a href='https://github.com/Fantabulous-J/BootSwitch'>Code</a>]<br>
+5\. **Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval** [<a href="https://aclanthology.org/2023.findings-emnlp.65.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/BootSwitch'>Code</a>]<br>
 <ins>**Fan Jiang**</ins>, Qiongkai Xu, Tom Drummond and Trevor Cohn. In Findings of the Association for Computational Linguistics (EMNLP). **EMNLP-Findings'23**
 
-4\. **Noisy Self-Training with Synthetic Queries for Dense Retrieval** [<a href="https://arxiv.org/pdf/2311.15563">PDF</a>] [<a href='https://github.com/Fantabulous-J/Self-Training-DPR'>Code</a>]<br>
+4\. **Noisy Self-Training with Synthetic Queries for Dense Retrieval** [<a href="https://aclanthology.org/2023.findings-emnlp.803.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/Self-Training-DPR'>Code</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Findings of the Association for Computational Linguistics (EMNLP). **EMNLP-Findings'23**
 
 3\. **Don't Mess with Mister-in-Between: Improved Negative Search for Knowledge Graph Completion** [<a href="https://aclanthology.org/2023.eacl-main.133.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/Improved-Negative-Search-for-KGC'>Code</a>]<br>
