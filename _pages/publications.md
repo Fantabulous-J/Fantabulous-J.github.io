@@ -9,6 +9,9 @@ redirect_from:
 ## Papers
 
 ### Under Review
+7\. **Few-shot Multilingual Open-domain QA from 5 Examples** <br>
+<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Submitted to TACL.
+
 6\. **Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision** [<a href="https://arxiv.org/pdf/2402.16508.pdf">PDF</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Submitted to ACL ARR 2024 February.
 
