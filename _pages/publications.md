@@ -12,8 +12,12 @@ redirect_from:
 7\. **Few-shot Multilingual Open-domain QA from 5 Examples** [<a href="../files/TACL__Few_shot_Multilingual_Open_domain_QA_from_5_Examples.pdf">PDF</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Submitted to TACL.
 
-6\. **Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision** [<a href="https://arxiv.org/pdf/2402.16508.pdf">PDF</a>]<br>
-<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Submitted to ACL ARR 2024 February.
+### 2024
+
+<br>
+  
+6\. **Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision** [<a href="https://arxiv.org/pdf/2402.16508.pdf">PDF</a>][<a href='https://github.com/Fantabulous-J/CLASS'>Code</a>]<br>
+<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing.
 
 ### 2023
 
