@@ -16,7 +16,7 @@ redirect_from:
 
 <br>
   
-6\. **Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision** [<a href="https://arxiv.org/pdf/2402.16508.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/CLASS'>Code</a>]<br>
+6\. **Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision** [<a href="https://aclanthology.org/2024.emnlp-main.770.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/CLASS'>Code</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. **EMNLP'24**
 
 ### 2023
