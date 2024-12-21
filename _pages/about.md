@@ -16,6 +16,13 @@ My primary research interests are centered around natural language processing. M
 * **General knowledge retrieval systems across domains** - Robust systems capable of retrieving reliable information across various formats and domains are crucial for meeting the information requirements of intricate real-world user queries across diverse fields.
 * **Intelligent open-domain question-answering systems across languages** - It is crucial to enhance information accessibility for users from diverse linguistic backgrounds, particularly those who speak underrepresented languages. My emphasis is on developing sophisticated systems capable of aiding linguistic minorities in accessing essential information.
 
+Experience
+------
+<!-- ### Experience -->
+  * **Google Research Australia**
+    * Student Researcher, Jun - Dec 2024
+    * Hosts: Trevor Cohn, Honglin Yu, and Grace Chung
+
 Education
 ------
 <!-- ### Education -->
