@@ -8,13 +8,23 @@ redirect_from:
 
 ## Papers
 
-### Under Review
-7\. **Few-shot Multilingual Open-domain QA from 5 Examples** [<a href="../files/TACL__Few_shot_Multilingual_Open_domain_QA_from_5_Examples.pdf">PDF</a>]<br>
-<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Submitted to TACL.
+### Preprints
+9\. **Franken-Adapter: Cross-Lingual Adaptation of LLMs by Embedding Surgery** [<a href="https://arxiv.org/pdf/2502.08037">PDF</a>]<br>
+<ins>**Fan Jiang**</ins>, Honglin Yu, Grace Chung, Trevor Cohn.
+
+### 2025
+
+<br>
+  
+8\. **Few-Shot Multilingual Open-Domain QA from 5 Examples** [<a href="../files/TACL__Few_shot_Multilingual_Open_domain_QA_from_5_Examples.pdf">PDF</a>]<br>
+<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Transactions of the Association for Computational Linguistics.
 
 ### 2024
 
 <br>
+
+7\. **Language Bias in Multilingual Information Retrieval: The Nature of the Beast and Mitigation Methods** [<a href="https://aclanthology.org/2024.mrl-1.23.pdf">PDF</a>]<br>
+Jinrui Yang, <ins>**Fan Jiang**</ins>, and Timothy Baldwin. In Proceedings of the Fourth Workshop on Multilingual Representation Learning. **MRL 2024**
   
 6\. **Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision** [<a href="https://aclanthology.org/2024.emnlp-main.770.pdf">PDF</a>] [<a href='https://github.com/Fantabulous-J/CLASS'>Code</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. **EMNLP'24**
