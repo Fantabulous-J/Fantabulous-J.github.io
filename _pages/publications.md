@@ -16,7 +16,7 @@ redirect_from:
 
 <br>
   
-8\. **Few-Shot Multilingual Open-Domain QA from 5 Examples** [<a href="../files/TACL__Few_shot_Multilingual_Open_domain_QA_from_5_Examples.pdf">PDF</a>]<br>
+8\. **Few-Shot Multilingual Open-Domain QA from 5 Examples** [<a href="https://arxiv.org/pdf/2502.19722">PDF</a>]<br>
 <ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Transactions of the Association for Computational Linguistics.
 
 ### 2024
