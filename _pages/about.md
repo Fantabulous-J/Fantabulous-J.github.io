@@ -29,7 +29,7 @@ Education
 ------
 <!-- ### Education -->
   * **The University of Melbourne**
-    * PhD student in Natural Language Processing, 2022 - 2026 (expected)
+    * PhD student in Natural Language Processing, 2022 - 2025
     * Supervisors: Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tom Drummond](http://twd20g.blogspot.com/)
   * **The University of Melbourne**
     * Master of Science (Computer Science), 2019 - 2021 [<a href='/files/msc-official-transcript.pdf'>Transcripts</a>] [<a href='/files/MSc_Thesis.pdf'>Thesis</a>]<br>
