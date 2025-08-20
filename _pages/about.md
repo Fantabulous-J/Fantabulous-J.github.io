@@ -12,8 +12,6 @@ Hi! I am Fan Jiang.
 
 I am a PhD student at [CIS Department](https://cis.unimelb.edu.au/) of [The University of Melbourne](https://www.unimelb.edu.au/), supervised by Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Prof. [Tom Drummond](http://twd20g.blogspot.com/). 
 
-***I'm currently looking for positions in the industry, with a strong interest in roles related to multilingual LLMs. If you know of any relevant openings or teams working in this space, I'd love to connect!***
-
 **Research Interests**
 
 My primary research interests are centered around natural language processing. My research is motivated by the ultimate goal of enhancing information access for individuals across diverse backgrounds. Recently, I have been concentrating on achieving robust and general information access by overcoming linguistic and domain barriers:
