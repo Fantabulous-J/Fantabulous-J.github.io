@@ -6,11 +6,12 @@ redirect_from:
   - /publications.html
 ---
 
-## Papers
+### 2026
 
-### Preprints
-9\. **Franken-Adapter: Cross-Lingual Adaptation of LLMs by Embedding Surgery** [<a href="https://arxiv.org/pdf/2502.08037">PDF</a>]<br>
-<ins>**Fan Jiang**</ins>, Honglin Yu, Grace Chung, Trevor Cohn.
+<br>
+
+9\. **Tokenizer-Aware Cross-Lingual Adaptation of Decoder-Only LLMs through Embedding Relearning and Swapping** [<a href="https://arxiv.org/pdf/2502.08037">PDF</a>]<br>
+<ins>**Fan Jiang**</ins>, Honglin Yu, Grace Chung, Trevor Cohn. In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics. **EACL'26**
 
 ### 2025
 
