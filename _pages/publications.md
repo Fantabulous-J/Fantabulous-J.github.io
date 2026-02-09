@@ -5,6 +5,14 @@ author_profile: true
 redirect_from: 
   - /publications.html
 ---
+"*" indicates equal contribution.
+
+### Preprints
+
+<br>
+
+10\. **Difficulty-Estimated Policy Optimization** [<a href="https://arxiv.org/pdf/2602.06375">PDF</a>]<br>
+Yu Zhao*, <ins>**Fan Jiang***</ins>, Tianle Liu*, Bo Zeng, Yu Liu, Longyue Wang, Weihua Luo
 
 ### 2026
 
