@@ -11,6 +11,9 @@ redirect_from:
 
 <br>
 
+11\. **Marco-MoE: Open Multilingual Mixture-of-Expert Language Models with Efficient Upcycling** [<a href="https://huggingface.co/collections/AIDC-AI/marco-moe">PDF</a>]<br>
+<ins>**Fan Jiang**</ins>, Yu Zhao, Chenyang Lyu, Tianqi Shi, Yichao Du, Feihu Jiang, Longyue Wang, Weihua Luo
+
 10\. **Difficulty-Estimated Policy Optimization** [<a href="https://arxiv.org/pdf/2602.06375">PDF</a>]<br>
 Yu Zhao*, <ins>**Fan Jiang***</ins>, Tianle Liu*, Bo Zeng, Yu Liu, Longyue Wang, Weihua Luo
 
@@ -26,7 +29,7 @@ Yu Zhao*, <ins>**Fan Jiang***</ins>, Tianle Liu*, Bo Zeng, Yu Liu, Longyue Wang,
 <br>
   
 8\. **Few-Shot Multilingual Open-Domain QA from 5 Examples** [<a href="https://arxiv.org/pdf/2502.19722">PDF</a>]<br>
-<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Transactions of the Association for Computational Linguistics.
+<ins>**Fan Jiang**</ins>, Tom Drummond and Trevor Cohn. Transactions of the Association for Computational Linguistics. **TACL'25**
 
 ### 2024
 
