@@ -1,0 +1,62 @@
+/* ---------- Custom overrides on top of academicpages ---------- */
+
+/* Sidebar profile: slightly larger avatar, tighter spacing */
+.author__avatar img {
+  max-width: 180px;
+  border-radius: 50%;
+}
+.author__bio {
+  margin-top: 0.6em;
+  line-height: 1.5;
+}
+
+/* Page body: a touch more readable */
+.page__content p,
+.page__content li {
+  line-height: 1.65;
+}
+
+/* Section headings (Experience / Education / News / Research Interests) */
+.page__content h2 {
+  border-bottom: 2px solid #2a7ae2;
+  padding-bottom: 0.25em;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+  font-size: 1.4em;
+}
+
+/* News list — render as a left-bordered updates feed */
+.page__content ul.news-list,
+.page__content ul.news-list li {
+  list-style: none;
+}
+.page__content ul.news-list {
+  padding-left: 0;
+  border-left: 3px solid #e0e0e0;
+}
+.page__content ul.news-list li {
+  padding: 0.35em 0 0.35em 0.9em;
+  margin-left: 0;
+  position: relative;
+}
+.page__content ul.news-list li + li {
+  border-top: 1px dashed #eee;
+}
+
+/* Publications page: tighter year sections, card-like entries */
+.page__content h3 {
+  color: #2a7ae2;
+  margin-top: 1.8em;
+  margin-bottom: 0.4em;
+  font-size: 1.2em;
+  letter-spacing: 0.01em;
+}
+.page__content h3 + p {
+  margin-top: 0.4em;
+}
+
+/* Each publication paragraph gets a little breathing room */
+#publications + .page__content p,
+.page__content p {
+  margin-bottom: 0.9em;
+}
